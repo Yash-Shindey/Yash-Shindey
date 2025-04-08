@@ -4,8 +4,6 @@
 **Yash-Shindey/Yash-Shindey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on expanding my understanding of Machine Learning, Reinforcement Learning, and AI in operations (AIOps).
 - 🌱 I’m currently learning about OpenSource Contribution, DevOps, and advanced algorithms.
 - 👯 I’m looking to collaborate on innovative projects in AI and cloud technologies.
