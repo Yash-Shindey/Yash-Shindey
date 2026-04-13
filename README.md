@@ -9,4 +9,4 @@ Payment systems, claim flow engines, AI-powered admin tools, cashout systems, Op
 - 2x AWS Certified (Solutions Architect + Developer Associate)
 - 2x Published researcher ([IEEE](https://ieeexplore.ieee.org/abstract/document/11351392/), IJARESM)
 
-Open to product engineering roles.
+
